@@ -1,6 +1,6 @@
 # Project Presentation
 
-* Dataset : EU-AIR-TRANSPORTATION MULTIPLEX NETWORK
+* Dataset : EU-AIR-TRANSPORTATION MULTIPLEX NETWORK : Define the most important hubs in Europe
 
 * Enrich dataset "EU-AIR-TRANSPORTATION MULTIPLEX NETWORK" from other datasets (Country, city names, airport names...), using the CSVs files
 * Create data visualizations from the updated dataset
